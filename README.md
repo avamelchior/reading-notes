@@ -5,8 +5,6 @@
 ## Introduction
 **My name is Ava Melchior, I have very minimal experience in working with HTML, Java, JavaScript, and Python. I am in DeltaV code school, and am going to be improving my skills in HTML and learning CSS.**
 
-## Reading Notes
-
 ## What is a growth mindset?
 
 - **I believe that a growth mindset is all about having trust in your abilities to learn and adapt to new information, and not limiting yourself to the things you already know.**
