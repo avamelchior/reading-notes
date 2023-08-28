@@ -7,7 +7,7 @@
 
 ## What is a growth mindset?
 
-- **I believe that a growth mindset is all about having trust in your abilities to learn and adapt to new information, and not limiting yourself to the things you already know.**
+**I believe that a growth mindset is all about having trust in your abilities to learn and adapt to new information, and not limiting yourself to the things you already know.**
 - I will trust in my abilities.
 - I will work with others and help when I can.
 - I will not be afraid to ask for help when needed (after 15 minutes, of course).
