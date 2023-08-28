@@ -2,7 +2,7 @@
 
 [Lab 1a](learning-markdown.md)
 
-# reading-notes
+## reading-notes
 
 - **My name is Ava Melchior, I have very minimal experience in working with HTML, Java, JavaScript, and Python. I am in DeltaV code school, and am going to be improving my skills in HTML and learning CSS.**
 
