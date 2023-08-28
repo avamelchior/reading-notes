@@ -26,7 +26,7 @@
 
 **How do you create a link with Markdown?**
 
-- Either enclose it in angle brackets or put it in parenthases.
+- Either enclose it in angle brackets or put it in parentheses.
 
 **What are the three symbols you can use to create an unordered (bulleted) list with Markdown?**
 
