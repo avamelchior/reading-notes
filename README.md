@@ -1,6 +1,6 @@
 # Table of Contents
 
-[Lab 1a](learning-markdown.md)
+1. [Lab 1a](learning-markdown.md)
 
 ## Reading Notes
 
