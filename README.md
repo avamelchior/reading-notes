@@ -1,15 +1,15 @@
 # Table of Contents
 
-1. [Unit 1](reading-viens1.md)
-2. [Unit 2](reading-divi2.md)
-3. [Unit 3](reading-tris3.md)
-4. [Unit 4](reading-cetri4.md)
-5. [Unit 5](reading-pieci5.md)
-6. [Unit 6](reading.sesi6.md)
-7. [Unit 7](reading.septini7.md)
-8. [Unit 8](reading.astoni8.md)
-9. [Unit 9](reading.devini9.md)
-10. [Unit 10](reading.desmit10.md)
+- [Unit 1](reading-viens1.md)
+- [Unit 2](reading-divi2.md)
+- [Unit 3](reading-tris3.md)
+- [Unit 4](reading-cetri4.md)
+- [Unit 5](reading-pieci5.md)
+- [Unit 6](reading.sesi6.md)
+- [Unit 7](reading.septini7.md)
+- [Unit 8](reading.astoni8.md)
+- [Unit 9](reading.devini9.md)
+- [Unit 10](reading.desmit10.md)
 
 ## Introduction
 **My name is Ava Melchior, I have very minimal experience in working with HTML, Java, JavaScript, and Python. I am in DeltaV code school, and am going to be improving my skills in HTML and learning CSS.**
